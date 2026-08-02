@@ -1,4 +1,4 @@
-# Data Quality & Profiling Assessment — SQL Server
+<img width="1331" height="736" alt="image" src="https://github.com/user-attachments/assets/e452bf13-abba-4380-974f-2c4616648a27" /># Data Quality & Profiling Assessment — SQL Server
 
 ## Overview
 
@@ -46,6 +46,9 @@ All findings below are visualized in the Power BI dashboard (see Dashboard secti
 - Constrain gender to a fixed value list at input
 
 ## Dashboard
+
+<img width="1331" height="736" alt="image" src="https://github.com/user-attachments/assets/c2067ad9-8ad3-4771-84ca-5f5e9ff765e0" />
+<img width="1320" height="736" alt="image" src="https://github.com/user-attachments/assets/733c410a-8030-41ca-a002-0110218b1dc7" />
 
 Power BI dashboard summarizing data quality KPIs and the findings above — issue counts by severity, mismatch distribution across ID ranges, and completeness metrics per table.
 
