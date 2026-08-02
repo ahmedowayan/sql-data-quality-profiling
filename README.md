@@ -49,10 +49,6 @@ All findings below are visualized in the Power BI dashboard (see Dashboard secti
 
 Power BI dashboard summarizing data quality KPIs and the findings above — issue counts by severity, mismatch distribution across ID ranges, and completeness metrics per table.
 
-![Dashboard overview](dashboard_overview.png)
-
-![Data quality findings](dashboard_dq_findings.png)
-
 ## Tools
 
 SQL Server (SSMS), T-SQL, Power BI
