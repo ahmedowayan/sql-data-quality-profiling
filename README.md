@@ -1,3 +1,4 @@
+# Data Quality & Profiling Assessment — SQL Server
 ## Overview
 Profiled a synthetic 4-table business dataset (customers,
 employees, inventory, leases — ~12,700 rows) to assess data
